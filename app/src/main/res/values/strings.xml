@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDataPractical1</string>
+    <string name="sets">Sets:</string> <!-- Do not hard code string because of translation-->
+
+    <string-array name="MainActivityList">
+        <item>Workouts</item>
+        <item>Add Workouts</item>
+        <item>Online Workouts</item>
+    </string-array>
+</resources>
